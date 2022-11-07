@@ -10,7 +10,7 @@ The Cheaper Netherite Repair plugin is running on the [bingecraft.net Minecraft 
 ## installation
 
 ```
-git clone git@github.com:arctair/cheaper-netherite-repair.git
+git clone git@github.com:bingecraft-net/cheaper-netherite-repair.git
 cd cheaper-netherite-repair
 mvn clean package
 ```

@@ -6,7 +6,7 @@
 
     <groupId>net.bingecraft</groupId>
     <artifactId>cheaper-netherite-repair</artifactId>
-    <version>27</version>
+    <version>28</version>
     <packaging>jar</packaging>
 
     <name>cheaper-netherite-repair</name>
